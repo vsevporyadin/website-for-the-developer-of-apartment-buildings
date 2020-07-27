@@ -1,3 +1,3 @@
-# website-for-the-developer-of-apartment-buildings
+# Website for the developer of apartment buildings
 
 In processing
